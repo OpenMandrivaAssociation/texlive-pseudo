@@ -1,6 +1,6 @@
 Name:		texlive-pseudo
 Version:	64182
-Release:	1
+Release:	2
 Summary:	Straightforward pseudocode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pseudo
