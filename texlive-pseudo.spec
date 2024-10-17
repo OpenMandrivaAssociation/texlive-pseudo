@@ -3,7 +3,7 @@ Version:	66638
 Release:	1
 Summary:	Straightforward pseudocode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pseudo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pseudo
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pseudo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pseudo.doc.r%{version}.tar.xz
